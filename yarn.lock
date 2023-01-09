@@ -244,13 +244,12 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
-baobab@^0.4.2:
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/baobab/-/baobab-0.4.4.tgz#2bd650fc1d25fda75ff26af46ef96590d7fbc674"
-  integrity sha1-K9ZQ/B0l/adf8mr0bvllkNf7xnQ=
+baobab@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/baobab/-/baobab-2.6.1.tgz#2d0d435b865603a0144d59b3404b5c5064d2f013"
+  integrity sha512-/kLgRbQF+1bdwgs0SaNuASB9qmB3q7OsDUTOGScKa+1zY3PKw5NOW3Cf23Lun+UHH8wXJdQxGiyYkv3W1YsAGA==
   dependencies:
-    emmett "^2.1.2"
-    typology "^0.3.1"
+    emmett "^3.2.0"
 
 base62@^1.1.0:
   version "1.2.8"
@@ -1193,10 +1192,10 @@ elliptic@^6.5.3:
     minimalistic-assert "^1.0.1"
     minimalistic-crypto-utils "^1.0.1"
 
-emmett@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/emmett/-/emmett-2.1.2.tgz#9a205d172aa5e5560e785ce091f332bfddd98f95"
-  integrity sha1-miBdFyql5VYOeFzgkfMyv93Zj5U=
+emmett@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/emmett/-/emmett-3.2.0.tgz#f6c5912760f13df66d401df7f9d2c4e657fc40a6"
+  integrity sha512-GLOQAzo1+ETCJPDKaSOXANSp1OZafBtL84dO4keY3ah4JTyL26wq0VObmBQ/9fol2Gup5y7e6YhOUd7Fx7H9Ww==
 
 encodeurl@~1.0.2:
   version "1.0.2"
@@ -3576,11 +3575,6 @@ typedarray@~0.0.5:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
-
-typology@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/typology/-/typology-0.3.1.tgz#76d1ecc7acb424ae14b86f433073228db1c1b3f7"
-  integrity sha1-dtHsx6y0JK4UuG9DMHMijbHBs/c=
 
 uglify-js@~2.2:
   version "2.2.5"
